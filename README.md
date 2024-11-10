@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @Leds789
-- ⚡ I'm trying to install and set up a ubuntu server
+- 👋 Hi, I’m @Leds789 / Matt
 - 🌱 I’m currently learning Networking & Cybersecurity
 - 💞️ I’m looking to collaborate on anything
 
